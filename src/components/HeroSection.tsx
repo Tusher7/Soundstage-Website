@@ -18,7 +18,7 @@ const HeroSection = () => {
       <div className="flex justify-center my-10">
         <a
           href="#"
-          className="py-3 px-4 mx-3 border rounded-md bg-gradient-to-r to-green-400"
+          className="py-3 px-4 mx-3 border rounded-md bg-gradient-to-r to-green-800"
         >
           Check out our UPCOMING EVENTS!
         </a>
