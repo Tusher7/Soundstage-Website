@@ -1,4 +1,4 @@
-import CommunityStats from "./components/CommunityStats";
+import ClubStats from "./components/ClubStats";
 import Events from "./components/Events";
 import HeroSection from "./components/HeroSection";
 import HostSection from "./components/HostSection";
@@ -12,7 +12,7 @@ function App() {
         <HeroSection />
         <HostSection />
         <Events />
-        <CommunityStats />
+        <ClubStats />
       </div>
     </>
   );

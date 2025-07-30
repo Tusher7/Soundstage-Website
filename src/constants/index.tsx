@@ -67,3 +67,9 @@ export const hostItems = [
     image: "src/assets/events-images/R62_4888-CR3.jpg",
   },
 ];
+
+export const stats = [
+  { label: "Members", value: 85 },
+  { label: "Workshops", value: 200 },
+  { label: "Radio Episodes", value: 60 },
+];
