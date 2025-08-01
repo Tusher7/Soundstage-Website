@@ -18,15 +18,17 @@ const Events = () => {
       <h3 className="text-center text-3xl font-medium mt-10">
         YOUR CAMPUS MUSIC SCENE
       </h3>
-      <div className="w-full grid grid-cols-6 grid-rows-7 mt-10 gap-1.5">
-        {images.map((image) => (
+      <div className="w-full grid grid-cols-6 grid-rows-9 mt-10 gap-1.5 overflow-hidden">
+        {images.map((image, index) => (
           <img
-            key={image.src}
+            key={index}
             src={image.src}
             alt={"Event Picture"}
-            className={`w-full h-auto object-cover ${
+            className={`w-full h-full object-cover ${
               colSpanMap[image.spanCol]
-            } ${rowSpanMap[image.spanRow]}  rounded-md`}
+            } ${
+              rowSpanMap[image.spanRow]
+            } rounded-sm hover:blur-md transition duration-300`}
           />
         ))}
       </div>

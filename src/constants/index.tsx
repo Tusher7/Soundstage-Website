@@ -18,7 +18,36 @@ export const navItems = [
 ];
 
 export const images = [
-  { src: "src/assets/events-images/R62_5032-CR3.jpg", spanRow: 2, spanCol: 2 },
+  {
+    src: "src/assets/events-images/R62_5032-CR3.jpg",
+    spanRow: 2,
+    spanCol: 2,
+  },
+  {
+    src: "src/assets/events-images/R62_7379-CR3.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 2,
+  },
+  {
+    src: "src/assets/events-images/R62_5100-CR3.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/R62_7289-CR3.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/Open Mic January Recap-15.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
   {
     src: "src/assets/events-images/Open Mic January Recap-2.jpg",
     spanRow: 2,
@@ -35,9 +64,35 @@ export const images = [
     spanCol: 1,
   },
   {
+    src: "src/assets/events-images/FebruaryOpenMicSoundStage-2.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/R62_4926-CR3.jpg",
+    spanRow: 1,
+    spanCol: 2,
+  },
+
+  {
+    src: "src/assets/events-images/r62_1.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
     src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
     spanRow: 1,
     spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/IMG_1400.jpg",
+    spanRow: 2,
+    spanCol: 2,
+  },
+  {
+    src: "src/assets/events-images/R62_7384-CR3.jpg",
+    spanRow: 1,
+    spanCol: 2,
   },
   {
     src: "src/assets/events-images/imagesdfsd.png",
@@ -45,62 +100,63 @@ export const images = [
     spanCol: 1,
   },
   {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    src: "src/assets/events-images/R62_7238-CR3.jpg",
     spanRow: 1,
     spanCol: 1,
   },
   {
+    src: "src/assets/events-images/FebruaryOpenMicHunter.jpg",
+    spanRow: 1,
+    spanCol: 2,
+  },
+  {
+    src: "src/assets/events-images/R62_7397-CR3.jpg",
+    spanRow: 2,
+    spanCol: 1,
+  },
+
+  {
     src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 2,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicSoundStage-32.jpg",
+    spanRow: 2,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicSoundStage-21.jpg",
+    spanRow: 2,
+    spanCol: 2,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicSoundStage-13.jpg",
     spanRow: 1,
     spanCol: 1,
   },
   {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    src: "src/assets/events-images/Open Mic January Recap-30.jpg",
     spanRow: 1,
     spanCol: 1,
   },
   {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    src: "src/assets/events-images/R62_7256-CR3.jpg",
     spanRow: 1,
     spanCol: 1,
   },
   {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    src: "src/assets/events-images/R62_5037-CR3 (1).jpg",
     spanRow: 1,
     spanCol: 1,
   },
   {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
-    spanRow: 1,
+    src: "src/assets/events-images/IMG_6989.JPG",
+    spanRow: 2,
     spanCol: 1,
   },
   {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
-    spanRow: 1,
-    spanCol: 1,
-  },
-  {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
-    spanRow: 1,
-    spanCol: 1,
-  },
-  {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
-    spanRow: 1,
-    spanCol: 1,
-  },
-  {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
-    spanRow: 1,
-    spanCol: 1,
-  },
-  {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
-    spanRow: 1,
-    spanCol: 1,
-  },
-  {
-    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    src: "src/assets/events-images/R62_7277-CR3.jpg",
     spanRow: 1,
     spanCol: 1,
   },
