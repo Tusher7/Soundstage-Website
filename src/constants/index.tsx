@@ -18,14 +18,92 @@ export const navItems = [
 ];
 
 export const images = [
-  "src/assets/events-images/R62_4888-CR3.jpg",
-  "src/assets/events-images/R62_4926-CR3.jpg",
-  "src/assets/events-images/R62_5037-CR3.jpg",
-  "src/assets/events-images/R62_5056-CR3.jpg",
-  "src/assets/events-images/calg.webp",
-  "src/assets/events-images/FebruaryOpenMicSoundStage-9.jpg",
-  "src/assets/events-images/Open Mic January Recap-1.jpg",
-  "src/assets/events-images/Open Mic January Recap-12.jpg",
+  { src: "src/assets/events-images/R62_5032-CR3.jpg", spanRow: 2, spanCol: 2 },
+  {
+    src: "src/assets/events-images/Open Mic January Recap-2.jpg",
+    spanRow: 2,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/imagesdfsd.png",
+    spanRow: 2,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
+  {
+    src: "src/assets/events-images/FebruaryOpenMicYohaan.jpg",
+    spanRow: 1,
+    spanCol: 1,
+  },
 ];
 
 export const hostItems = [

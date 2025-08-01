@@ -1,8 +1,11 @@
+import { Calendar } from "lucide-react";
 import ClubStats from "./components/ClubStats";
 import Events from "./components/Events";
+import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import HostSection from "./components/HostSection";
 import NavBar from "./components/NavBar";
+import EventCalendar from "./components/EventCalendar";
 
 function App() {
   return (
@@ -11,9 +14,11 @@ function App() {
       <div className="max-w-7xl mx-auto pt-20 px-6">
         <HeroSection />
         <HostSection />
-        <Events />
-        <ClubStats />
       </div>
+      <Events />
+      <ClubStats />
+      <EventCalendar />
+      <Footer />
     </>
   );
 }
