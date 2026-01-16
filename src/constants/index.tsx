@@ -304,27 +304,27 @@ export const events: Event[] = [
   {
     heading: "Battle of the Bands",
     description: "To connect our community, we host a yearly battle of the band event, where students sign up as individuals and get placed into a band! This year, our battle had 16 participating bands in one night!",
-    images: ["src/assets/exec-headshots/atharva headshot.png", "src/assets/exec-headshots/atharva headshot.png"],
+    images: ["src/assets/events-images/BOTBcrowd.jpg", "src/assets/events-images/BOTBPerformer.jpg"],
   },
   {
     heading: "Soundstage Underground: Music Festival",
     description: "To showcase the best student talent at Ucalgary, we host Soundstage Underground -- a Student music festival -- featuring a diverse lineup of student performers. Last year, we saw 200 attendees come to our festival at Modern Love!",
-    images: ["src/assets/exec-headshots/atharva headshot.png", "src/assets/exec-headshots/atharva headshot.png"],
+    images: ["src/assets/events-images/IMG_6989.JPG"],
   },
     {
     heading: "Community Jam Nights",
     description: "To foster student collaboration, we host Community Jam Nights at the Alcove in downtown calgary, where students can join us for a more laid-back evening of music",
-    images: ["src/assets/exec-headshots/atharva headshot.png", "src/assets/exec-headshots/atharva headshot.png"],
+    images: ["src/assets/events-images/FebruaryOpenMicSoundStage-21.jpg"],
   },
         {
     heading: "Soundstage: The Rex Factor",
     description: "We host a yearly Rex Factor event that includes of $600 of prizes for participating student musicians. This event involves 30 competitors, who aim to win in a number of our categories -- including best solo artist, best band, best dressed, and more!",
-    images: ["src/assets/exec-headshots/atharva headshot.png", "src/assets/exec-headshots/atharva headshot.png"],
+    images: ["src/assets/events-images/rexFactor1.jpg", "src/assets/events-images/rexFactor2.jpg"],
   },
       {
     heading: "Valentines Day Fundraiser",
     description: "To raise funds for our community initiatives, we host a valentines day fundraiser complete with 15 minute picnic-dates for students to enjoy. Our own executives participate as acapella group singers, who serenade students while they enjoy a cheese platter.",
-    images: ["src/assets/exec-headshots/atharva headshot.png", "src/assets/exec-headshots/atharva headshot.png"],
+    images: ["src/assets/events-images/fundraiser2.jpg"],
   }
 
 ];
